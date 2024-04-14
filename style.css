@@ -12,6 +12,7 @@ html {
 p {
   padding: 2px;
   border-top: 1px solid black;
+  border-bottom: 1px solid black;
   text-align: center;
 }
 .exp {
