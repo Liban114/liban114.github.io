@@ -1,1 +1,69 @@
+html {
+  margin: 9% 18% ;
+  padding: 0;
+  background-color: #808080e9;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 16px;
+  display: inline-block;
+  text-align: center;
+  justify-content: center;
+}
+.name,
+p {
+  padding: 2px;
+  border-top: 1px solid black;
+  text-align: center;
+}
+.exp {
+  
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  text-align: justify;
+}
+
+.edu {
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  text-align: justify;
+}
+
+.trainer {
+  
+  text-align: justify;
+}
+
+ul,
+li {
+  align-items: center;
+}
+
+.prof-trn {
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  text-align: justify;
+}
+
+.skills {
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  text-align: justify;
+}
+
+.leadership {
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  text-align: justify;
+}
+
+.hobbies {
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  text-align: justify;
+}
+
+.Referees {
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  text-align: justify;
+}
 
